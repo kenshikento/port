@@ -1,0 +1,69 @@
+// Small tablets and large smartphones (landscape view)
+$screen-sm-min: 576px;
+
+// Small tablets (portrait view)
+$screen-md-min: 768px;
+
+// Tablets and small desktops
+$screen-lg-min: 992px;
+
+// Large tablets and desktops
+$screen-xl-min: 1200px;
+
+li {
+    list-style-type: none;
+}
+
+
+ul, ol { padding:0; margin: 0 }
+
+.header-image{
+    background-color:black;
+}
+
+.container {
+    .icons {
+        margin: 3em 1em 2.5em 1em;
+
+        @media (max-width: $screen-md-min){
+            margin: 1em 1em 2.5em 1em;
+        }
+
+        .icon {
+            width:33%;
+
+            @media (max-width: $screen-md-min) {
+                width:100%;
+                margin: 1em 0 1em 0;
+            }
+            
+            display: inline-block;
+
+            .linklogo {
+                width: 100%;
+            }
+
+            .cv-button {
+                width: 5.5em;
+            }
+        }
+        
+    }
+
+    .border-image {
+        margin: 2em;
+
+        .profile-pic {
+            width: 35%;
+
+            @media(max-width:$screen-sm-min) {
+                width:90%;
+            }
+            border-radius: 50%;
+        }
+    }
+
+    .time-line {
+        margin:7em 1em 1em 1em;
+    }
+}

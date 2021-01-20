@@ -1,0 +1,42 @@
+{
+    "items" :[{
+        "id": 1,
+        "company":"TransferMyBills",
+        "title": "Software Developer",
+        "icon": "work",
+        "duration": "Sep 2020 - Present ",
+        "description":"Developing and maintaining web application using Laravel Nova and for front-end side of application Vue js. Git for version control Implementing Zendesk Api Integration"
+    },
+    {
+        "id": 2,
+        "company":"Golin Digital",
+        "title": "Junior Back-End Developer",
+        "icon": "work",
+        "duration": "July-2018 - Feb 2020",
+        "description":"• Developing and maintaining web application using PHP (Laravel,Pyro) for backend side of application and for front end side of the application we used Vue js and React. • Using Git for version control [Fork & Pull Model] • Reviewing other developers code on GitHub"
+    },
+    {
+        "id": 3,
+        "company":"M&C Saatchi London",
+        "title": "Intern IT Support",
+        "icon": "work",
+        "duration": "Nov 2016 - Dec 2016",
+        "description":"• Installing Outlook and troubleshooting computer devices(Windows 8 , 7, 10 and Mac) and mobile devices (Android and IOS) as the company was going through an Office 365 migration. • Using Active Directory to keep account of current user information. • Using a ticketing system Fresh to complete tasks that clients were logging. • Helping to process a back log of bookings on their in-house built taxi service which was backlog by 3 years."
+    },
+    {
+        "id": 4,
+        "company":"FreeHoldings",
+        "title": "Intern Web Developer",
+        "icon": "work",
+        "duration": "Nov 2016 - Dec 2016",
+        "description":"• Installing Outlook and troubleshooting computer devices(Windows 8 , 7, 10 and Mac) and mobile devices (Android and IOS) as the company was going through an Office 365 migration. • Using Active Directory to keep account of current user information. • Using a ticketing system Fresh to complete tasks that clients were logging. • Helping to process a back log of bookings on their in-house built taxi service which was backlog by 3 years."
+    },
+    {
+        "id": 5,
+        "company":"University Of Greenwich",
+        "title": "Software Engineering Degree",
+        "icon": "education",
+        "duration": "2011 - 2015"
+    }    
+  ]
+}

@@ -1,0 +1,46 @@
+// Small tablets and large smartphones (landscape view)
+$screen-sm-min: 576px;
+
+// Small tablets (portrait view)
+$screen-md-min: 768px;
+
+// Tablets and small desktops
+$screen-lg-min: 992px;
+
+// Large tablets and desktops
+$screen-xl-min: 1200px;
+
+.title {
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+}
+
+.hidden {
+    display:none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header {
+    margin: 2.5em;
+}
+
+.list {
+    .block {
+        width: 50%;
+        float: left;
+        @media (max-width: $screen-md-min) {
+            width:100%;
+        }        
+
+        .repo {
+            font-size: 25px;
+            @media (max-width: $screen-md-min) {
+                font-size: 30px;
+            }       
+        }
+    }
+}

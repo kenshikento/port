@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b52a1f1d.chunk.css",
+    "main.js": "/static/js/main.58a6b39e.chunk.js",
+    "main.js.map": "/static/js/main.58a6b39e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f763882e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f763882e.js.map",
+    "static/css/2.fd10246f.chunk.css": "/static/css/2.fd10246f.chunk.css",
+    "static/js/2.b0cecff6.chunk.js": "/static/js/2.b0cecff6.chunk.js",
+    "static/js/2.b0cecff6.chunk.js.map": "/static/js/2.b0cecff6.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.dd161a07d5781097ca610c8ca8b72bec.js": "/precache-manifest.dd161a07d5781097ca610c8ca8b72bec.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.fd10246f.chunk.css.map": "/static/css/2.fd10246f.chunk.css.map",
+    "static/css/main.b52a1f1d.chunk.css.map": "/static/css/main.b52a1f1d.chunk.css.map",
+    "static/js/2.b0cecff6.chunk.js.LICENSE.txt": "/static/js/2.b0cecff6.chunk.js.LICENSE.txt",
+    "static/media/LI-Logo.png": "/static/media/LI-Logo.c24cde28.png",
+    "static/media/cv.pdf": "/static/media/cv.4db0ceea.pdf",
+    "static/media/cv.png": "/static/media/cv.bdbc3fc0.png",
+    "static/media/profilepic.jpg": "/static/media/profilepic.f0f8591e.jpg",
+    "static/media/tien_nguyen_150px_small.png": "/static/media/tien_nguyen_150px_small.47d9660b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f763882e.js",
+    "static/css/2.fd10246f.chunk.css",
+    "static/js/2.b0cecff6.chunk.js",
+    "static/css/main.b52a1f1d.chunk.css",
+    "static/js/main.58a6b39e.chunk.js"
+  ]
+}
